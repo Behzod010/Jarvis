@@ -74,5 +74,5 @@ Licensed under **[Creative Commons BY-NC 4.0](https://creativecommons.org/licens
 ## 👤 Connect with the Creator
 
 Engineered by an 16-year-old developer building a real JARVIS-style assistant.
-⭐ **Star the repository to support the journey to Mark 85.**
+
 
