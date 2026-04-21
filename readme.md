@@ -42,7 +42,7 @@ It's not just an assistant — it's an extension of your digital life.
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/FatihMakes/Jarvis-MK37.git
+git clone https://github.com/Behzod010/Jarvis.git
 cd Jarvis Engine
 pip install -r requirements.txt
 playwright install
